@@ -8,8 +8,8 @@
     <owners>Live2d Inc.</owners>
     <title>Live2d Cubism</title>
     <authors>Live2d Inc.</authors>
-    <iconUrl>https://cdn.jsdelivr.net/gh/Windos/chocolatey@0bd79df6b3e7797bd2ba272356c1eb4491b9d661/elk-native/elk-native.png</iconUrl>
-    <copyright>© 2022-PRESENT Elk Native contributors</copyright>
+    <iconUrl>https://cdn.jsdelivr.net/gh/muddy1/live2d-cubism@master/live2d.install/icons/cubism-logo.png</iconUrl>
+    <copyright>© 2010 - 2025 Live2D Inc.</copyright>
     <tags>live2d animation art</tags>
     <summary>Software that directly animates your original drawings.</summary>
     <description>Live2D is the industry standard tool for 2D real-time expression, chosen by professional creators around the world. It is widely used in mobile apps, console games, VTuber streaming, and animations.</description>

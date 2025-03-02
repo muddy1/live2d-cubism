@@ -8,6 +8,7 @@
     <owners>Live2d Inc.</owners>
     <title>Live2d Cubism</title>
     <authors>Live2d Inc.</authors>
+	<projectUrl>https://www.live2d.com/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/muddy1/live2d-cubism@master/live2d.install/icons/cubism-logo.png</iconUrl>
     <copyright>© 2010 - 2025 Live2D Inc.</copyright>
     <tags>live2d animation art</tags>
